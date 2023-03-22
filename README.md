@@ -2,7 +2,6 @@
 
 The repository contains the completed projects of the "[The App Brewery](https://appbrewery.com) - [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)", implemented in Flutter 3.7.0.
 
-
 ## Section 3: I Am Rich
 
 **App:** a version of the 'I am rich' app<br />
@@ -14,10 +13,12 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 - ... and some other basics (Scaffold, AppBar, Material Design)
 
 
-## Section 5: I Am Poor (extended version)
+## Section 5: I Am A Penguin (aka "I Am Poor"; extended version)
 
 **App:** another (extended) version of the 'I am rich' app<br />
-**Topic:** Creating a Flutter app from scratch again (App challenge)
+**Topic:** Creating a Flutter app from scratch again (App challenge)<br />
+
+Attributions: Illustration by [Maria Letta](https://icons8.com/illustrations/author/ZzX8QJV19tuE) from [Ouch!]("https://icons8.com/illustrations")
 
 
 ## Section 6: MiCard
@@ -32,6 +33,8 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 - Adding Material icons
 - Styling text widgets
 
+Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/author/JTmm71Rqvb2T) from [Ouch!]("https://icons8.com/illustrations")
+
 
 ## Section 7: Dicee
 
@@ -45,7 +48,7 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 - Dart functions (intro), variables, data types and the Random class
 
 
-## Section 8: Magic 8 Ball
+## Section 8: Magic 8 Ball (slightly extended UI)
 
 **App:** Magic 8 ball app<br />
 **Topic:** Nothing new here (Boss Level Challenge 1)
@@ -118,8 +121,8 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 ## Section 15: Flash Chat (extended)
 
 **App:** Messaging app<br />
-**Topic:** Using Firebase Cloud Firestore
-- improved UI, extended error handling, code refactoring
+**Topic:** Using Firebase Cloud Firestore<br />
+--> improved UI, extended error handling, code refactoring
 
 - Setting up a Firebase project
 - Registering and authenticating users with firebase
@@ -139,3 +142,7 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 - Using the provider package
 - BottomSheet widget and ListBuilder
 - Flutter app Architecture patterns
+
+___
+
+Screenshots made with: [screenshots.pro](https://screenshots.pro/)
