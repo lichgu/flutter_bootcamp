@@ -12,7 +12,7 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 - Adding app icons
 - ... and some other basics (Scaffold, AppBar, Material Design)
 
-<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/03_i_am_rich.png" width=50% height=50%>
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/03_i_am_rich.png" width=25% height=25%>
 
 
 ## Section 5: I Am A Penguin (aka "I Am Poor"; extended version)
