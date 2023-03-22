@@ -1,6 +1,6 @@
 # flutter_bootcamp
 
-The repository contains the completed projects of the "[The App Brewery](https://appbrewery.com) - [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)", implemented in Flutter 3.7.0.
+The repository contains the completed projects of the "[The App Brewery](https://appbrewery.com) - [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)", implemented in Flutter 3.7.0. Automatically generated files are omitted.
 
 ## Section 3: I Am Rich
 
