@@ -133,7 +133,7 @@ Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/
 - Dart static modifier, mixins and streams
 
 
-## Section 16: Todoey
+## Section 16: Todoey (extended)
 
 **App:** To-Do-List App<br />
 **Topic:** Flutter state management
