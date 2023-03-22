@@ -155,7 +155,7 @@ Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/
 - Using prepackaged and custom Flutter animations
 - Dart static modifier, mixins and streams
 
-<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/15_flash_chat.png" width=50% height=50%>
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/15_flash_chat.png" width=56% height=56%>
 
 
 ## Section 16: Todoey (extended)
