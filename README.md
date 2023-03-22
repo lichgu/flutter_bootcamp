@@ -22,6 +22,8 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 
 Attributions: Illustration by [Maria Letta](https://icons8.com/illustrations/author/ZzX8QJV19tuE) from [Ouch!]("https://icons8.com/illustrations")
 
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/05_i_am_a_penguin.png" width=25% height=25%>
+
 
 ## Section 6: MiCard
 
@@ -37,6 +39,8 @@ Attributions: Illustration by [Maria Letta](https://icons8.com/illustrations/aut
 
 Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/author/JTmm71Rqvb2T) from [Ouch!]("https://icons8.com/illustrations")
 
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/06_mi_card.png" width=25% height=25%>
+
 
 ## Section 7: Dicee
 
@@ -49,11 +53,15 @@ Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/
 - Using expanded
 - Dart functions (intro), variables, data types and the Random class
 
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/07_dicee.png" width=25% height=25%>
+
 
 ## Section 8: Magic 8 Ball (slightly extended UI)
 
 **App:** Magic 8 ball app<br />
 **Topic:** Nothing new here (Boss Level Challenge 1)
+
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/08_magic_8_ball.png" width=25% height=25%>
 
 
 ## Section 9: Xylophone
@@ -64,6 +72,8 @@ Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/
 - Using Flutter packages
 - Playing sound on iOS and android
 - Dart lists, loops, functions
+
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/09_xylophone.png" width=25% height=25%>
 
 
 ## Section 10: Quizzler
@@ -76,10 +86,15 @@ Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/
 - Dart lists and conditionals
 - Dart classes and objects, private and public modifiers
 
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/10_quizzler.png" width=25% height=25%>
+
+
 ## Section 11: Destini
 
 **App:** Text-based adventure game<br />
 **Topic:** Nothing new here (Boss Level Challenge 2)
+
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/11_destini.png" width=25% height=25%>
 
 
 ## Section 12: BMI Calculator
@@ -95,6 +110,8 @@ Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/
 - Dart ternary operator and maps
 - Dart enums and functions as first order objects
 
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/12_bmi_calculator.png" width=40% height=40%>
+
 
 ## Section 13: Clima
 
@@ -109,6 +126,8 @@ Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/
 - Dart futures, async and await
 - Dart exception handling and null aware operators
 
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/13_clima.png" width=40% height=40%>
+
 
 ## Section 14: Bitcoin Ticker (restyled)
 
@@ -118,6 +137,8 @@ Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/
 - Building a platform specfic UI (iOS & Android)
 - Using the DropdownButton widget
 - More Dart loops
+
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/14_bitcoin_ticker.png" width=25% height=25%>
 
 
 ## Section 15: Flash Chat (extended)
@@ -134,6 +155,8 @@ Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/
 - Using prepackaged and custom Flutter animations
 - Dart static modifier, mixins and streams
 
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/15_flash_chat.png" width=40% height=40%>
+
 
 ## Section 16: Todoey (extended)
 
@@ -144,6 +167,8 @@ Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/
 - Using the provider package
 - BottomSheet widget and ListBuilder
 - Flutter app Architecture patterns
+
+<img src="https://github.com/lichgu/flutter_bootcamp/blob/main/screenshots/16_todoey.png" width=40% height=40%>
 
 ___
 
