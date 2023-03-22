@@ -122,7 +122,7 @@ Attributions: Illustration by [Dani Grapevine](https://icons8.com/illustrations/
 
 **App:** Messaging app<br />
 **Topic:** Using Firebase Cloud Firestore<br />
---> improved UI, extended error handling, code refactoring
+&rarr; improved UI, extended error handling, code refactoring
 
 - Setting up a Firebase project
 - Registering and authenticating users with firebase
