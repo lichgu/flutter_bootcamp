@@ -5,8 +5,8 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 
 ## Section 3: I Am Rich
 
-- **App:** a version of the 'I am rich' app
-- **Topic:** Creating a Flutter app from scratch
+**App:** a version of the 'I am rich' app<br />
+**Topic:** Creating a Flutter app from scratch
 
 - Creating a Flutter app from scratch
 - Working with assets
@@ -16,14 +16,14 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 
 ## Section 5: I Am Poor (extended version)
 
-- **App:** another (extended) version of the 'I am rich' app
-- **Topic:** Creating a Flutter app from scratch again (App challenge)
+**App:** another (extended) version of the 'I am rich' app<br />
+**Topic:** Creating a Flutter app from scratch again (App challenge)
 
 
 ## Section 6: MiCard
 
-- **App:** Personal business card
-- **Topic:** Building UIs with Flutter widgets
+**App:** Personal business card<br />
+**Topic:** Building UIs with Flutter widgets
 
 - Creating stateless widgets
 - Using containers for UI layout
@@ -35,8 +35,8 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 
 ## Section 7: Dicee
 
-- **App:** Dice throwing app
-- **Topic:** Building apps with state
+**App:** Dice throwing app<br />
+**Topic:** Building apps with state
 
 - Using stateless and stateful widgets
 - Changing widgets properties and using setState
@@ -47,14 +47,14 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 
 ## Section 8: Magic 8 Ball
 
-- **App:** Magic 8 ball app
-- **Topic:** Nothing new here (Boss Level Challenge 1)
+**App:** Magic 8 ball app<br />
+**Topic:** Nothing new here (Boss Level Challenge 1)
 
 
 ## Section 9: Xylophone
 
-- **App:** Xylophone music app
-- **Topic:** Using flutter and dart packages
+**App:** Xylophone music app<br />
+**Topic:** Using flutter and dart packages
 
 - Using Flutter packages
 - Playing sound on iOS and android
@@ -63,8 +63,8 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 
 ## Section 10: Quizzler
 
-- **App:** Quiz app with score keeping
-- **Topic:** Modularising and organising Flutter code
+**App:** Quiz app with score keeping<br />
+**Topic:** Modularising and organising Flutter code
 
 - Abstraction, encapsulation, inheritance, polymorphism
 - Code refactoring
@@ -73,14 +73,14 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 
 ## Section 11: Destini
 
-- **App:** Text-based adventure game
-- **Topic:** Nothing new here (Boss Level Challenge 2)
+**App:** Text-based adventure game<br />
+**Topic:** Nothing new here (Boss Level Challenge 2)
 
 
 ## Section 12: BMI Calculator
 
-- **App:** Multi screen BMI calculator app
-- **Topic:** Building Flutter UIs (intermediate)
+**App:** Multi screen BMI calculator app<br />
+**Topic:** Building Flutter UIs (intermediate)
 
 - Using Flutter themes and custom color pallets
 - Refactoring flutter widgets, creating custom widgets and building widgets from scratch
@@ -93,8 +93,8 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 
 ## Section 13: Clima
 
-- **App:** Weather app
-- **Topic:** Requesting and displaying live weather data from the web
+**App:** Weather app<br />
+**Topic:** Requesting and displaying live weather data from the web
 
 - Performing asynchronous tasks and working with futures
 - Using the http package and the geolocator package
@@ -107,8 +107,8 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 
 ## Section 14: Bitcoin Ticker (restyled)
 
-- **App:** Monitoring crypto currency rates
-- **Topic:** Boss Level Challenge 3
+**App:** Monitoring crypto currency rates<br />
+**Topic:** Boss Level Challenge 3
 
 - Building a platform specfic UI (iOS & Android)
 - Using the DropdownButton widget
@@ -117,8 +117,8 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 
 ## Section 15: Flash Chat (extended)
 
-- **App:** Messaging app
-- **Topic:** Using Firebase Cloud Firestore
+**App:** Messaging app<br />
+**Topic:** Using Firebase Cloud Firestore
 - improved UI, extended error handling, code refactoring
 
 - Setting up a Firebase project
@@ -132,8 +132,8 @@ The repository contains the completed projects of the "[The App Brewery](https:/
 
 ## Section 16: Todoey
 
-- **App:** To-Do-List App
-- **Topic:** Flutter state management
+**App:** To-Do-List App<br />
+**Topic:** Flutter state management
 
 - Managing state and using callbacks, a provider and a changeNotifier
 - Using the provider package
